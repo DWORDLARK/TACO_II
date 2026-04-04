@@ -93,6 +93,16 @@ TACO_II
 				If Mouse sensitivity settings are changed in game settings menu	then
 				Mouse sensitivity will be reset to old value (F2).
 
+				
+----------------------------------------------------------------------------------------
+			Cheat menu: Only usable for local play.
+			
+			Health: Set Health value.
+			Weapon ammo: 250 max 
+			Unlimited Run: Works in sprint mode. 
+			Animations: some animations might crash the game.
+----------------------------------------------------------------------------------------
+
 
 ----------------------------------------------------------------------------------------
 StatusBar:
@@ -184,9 +194,11 @@ Hotkey function changed
 Direct connect (Join server) added
 
 ----------------------------------------------------------------------------------------
+04.04.2026 (v2.2)
 
++Cheat menu. Health, Weapon ammo, Unlimited Run, speed/animations
 
-
+----------------------------------------------------------------------------------------
 
 
 
